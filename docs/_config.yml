@@ -1,0 +1,9 @@
+# Site settings
+title: My GitHub Pages Site
+description: This is my personal website
+baseurl: "/pri-impact" # the subpath of your site, e.g. /blog/
+url: "https://piotrsobecki.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
