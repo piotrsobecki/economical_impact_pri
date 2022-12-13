@@ -3,15 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Impact analysis of public research institutes on Polish economy. 
----
-## Visualization of the patenting activity and its impact on the economy.
-To estimate the impact, we have used concordance tables to map the IPC classification of over 30000 patent admissions to NACE categories. This allows to highlight the industries that are being impacted the most by the research conducted at these institutes.
 
+---
+
+This site presents visualization of the PRI patenting activity and its estimated impact on Polish economy.
+
+To estimate the impact, we have used concordance tables to map the IPC classification of over 30000 patent admissions to NACE categories. This allows to highlight the industries that are being impacted the most by the research conducted at these institutes.
 
 By understanding the industries that are being impacted by this research, researchers can see the real-world implications of their work and policymakers can better understand the economic benefits of public investment in research. This information can help to inform decision-making and promote more effective research and development efforts. Additionally, our data and visualizations provide a detailed profile of each institution, allowing for a better understanding of their patenting activity and its impact on the economy. 
 
-You can  learn more about the methodology behind our analysis on [the 'About' subpage]({{ site.baseurl }}{% link about.markdown %}).
+You can  learn more about the methodology behind our analysis on [the 'Methodology' subpage]({{ site.baseurl }}{% link methodology.markdown %}).
+
+
+## Sector leaders
+
+We present a list of identified sector leaders on [the 'Sector leaders' subpage]({{ site.baseurl }}{% link sector_leaders.markdown %}). This subpage presents the results of our analysis of the industries that have been most impacted by the patenting activity of PRIs. Using concordance tables and the IPC classification, we have identified the top performers in each sector and highlighted their contribution to the economy.
 
 
 ## Map of influence
