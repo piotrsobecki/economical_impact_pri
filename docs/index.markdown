@@ -20,6 +20,16 @@ You can  learn more about the methodology behind our analysis on [the 'Methodolo
 We present a list of identified sector leaders on [the 'Sector leaders' subpage]({{ site.baseurl }}{% link sector_leaders.markdown %}). This subpage presents the results of our analysis of the industries that have been most impacted by the patenting activity of PRIs. Using concordance tables and the IPC classification, we have identified the top performers in each sector and highlighted their contribution to the economy.
 
 
+## Analysed data
+
+Four our analyses, we have limited the patent submisions to that of public universities and scientific institutions in 2010-2019. We have filtered admissions with no decision assigned, and those that were not granted the patenting right. 
+However, we have decided to include the patents that have expired (ie. due to lack of payment) as those could be potentially essential in assessing the economical impact.
+
+The following table presents statistics of patent submissions included in analyses and visualization.
+
+{% include patents_inst_stats.html %}
+
+
 ## Map of influence
 
 The map of influence shows the impact that each research institute has on various NACE sectors. The size of the bubbles on the map corresponds to the relative level of activity of the institute in each sector. This allows you to see at a glance which institutes are having the greatest impact on specific industries.  
