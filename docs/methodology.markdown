@@ -8,8 +8,12 @@ classes: wide
 
 
 To estimate the economic impact of public research institutes, we have used concordance tables to map the IPC classification of over 30,000 patent admissions to NACE categories. 
-The data has been obtained from the public APIs of [the Integrated System of Information on Science and Higher Education (POLON)](https://polon.nauka.gov.pl/siec-polon) and ['Urząd Patentowy Reczpospolitej Polskiej' webiste](https://uprp.gov.pl/).
-This allows us to see which industries are being impacted by the research conducted at these institutes. Our analysis is based on this mapping, which provides a detailed and accurate picture of the economic impact of the patenting activity of these institutes.
+
+The data has been obtained from the public APIs of the:
+- [Integrated System of Information on Science and Higher Education (POLON)](https://polon.nauka.gov.pl/siec-polon)  
+- ['Urząd Patentowy Reczpospolitej Polskiej' webiste](https://uprp.gov.pl/).
+
+The collected data mapped with NACE mappings allows to see which industries are being impacted by the research conducted at these institutes. Our analysis is based on this mapping, which provides a detailed and accurate picture of the economic impact of the patenting activity of these institutes.
 
 {% include patents_kind_years_groupped.html %}
 
