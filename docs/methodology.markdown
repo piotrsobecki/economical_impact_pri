@@ -12,6 +12,11 @@ To estimate the economic impact of public research institutes, we have used conc
 {% include patents_kind_years_groupped.html %}
 
 
+All analysed pattents:
+
+{% include patents_inst_stats_all.html %}
+
+
 While our analysis includes all patenting activity, not all of the patents that we have analyzed are currently active. 
 This means that our results provide a comprehensive view of the impact of these institutes on the economy, even if some of the patents have expired or are no longer in use.
 
