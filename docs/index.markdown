@@ -34,3 +34,7 @@ The map of influence shows the impact that each research institute has on variou
 The chart presents a two-dimensional projection of the data that results from applying Principal Component Analysis (PCA) to vectorized profiles of the institutes. We have grouped the institutes into 15 clusters based on their cosine similarity. This allows you to see the relationships between different institutes and how they compare to one another. The chart is a useful tool for gaining a high-level understanding of the patenting activity of the institutes and its impact on the economy.
 
 {% include institute_nace_impact_clusters.html %}
+
+Cluster rank
+
+{% include cluster_leaders.html %}
