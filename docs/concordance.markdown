@@ -3,15 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Corcordance table
-permalink: /corcordance/
+title: Concordance table
+permalink: /concordance/
 full-width: true
 classes: wide
 order: 4
 
 ---
 
-This site presents the visualization of NACE-IPC corcordance table.
+This site presents the visualization of NACE-IPC probabilistic concordance table.
 
 The data comes from [1] and can be accessed here [isi.fraunhofer.de - innovation systems policy analysis](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/ccp/innovation-systems-policy-analysis/2019/Concordance_tables_for_download_060519.xlsx).
 
