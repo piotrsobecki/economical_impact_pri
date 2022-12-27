@@ -7,6 +7,7 @@ title: IPC3
 permalink: /ipc3/
 full-width: true
 classes: wide
+order: 2
 
 ---
 

@@ -7,18 +7,13 @@ title: NACE
 permalink: /nace/
 full-width: true
 classes: wide
+order: 3
 
 ---
 
-This site presents index of NACE categories included in analyses and their mapping to IPC3 Patent classification.
+This site presents the index of NACE categories included in analyses and their mapping to IPC3 Patent classification.
 
 ## List NACE Categories
 
 {% include nace_index.html %}
-
-## NACE IPC Concordance table
-
-{% include nace_ipc_heatmap.html %}
-
-
 

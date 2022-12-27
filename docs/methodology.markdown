@@ -4,6 +4,7 @@ title: Methodology
 permalink: /methodology/
 full-width: true
 classes: wide
+order: 1
 ---
 
 
