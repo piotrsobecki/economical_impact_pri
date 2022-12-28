@@ -37,11 +37,20 @@ The chart presents a two-dimensional projection of the data that results from ap
 
 {% include institute_nace_impact_clusters.html %}
 
+Ranked sectors based on the expected number of patents for each cluster.
+
+{% include cluster_sectors_ranked.html %}
+
 Most active institutions in each identified cluster. 
 
 {% include cluster_leaders.html %}
 
 
+
 ## Sector leaders
 
 We present a list of identified sector leaders on [the 'Sector leaders' subpage]({{ site.baseurl }}{% link sector_leaders.markdown %}). This subpage presents the results of our analysis of the industries that have been most impacted by the patenting activity of PRIs. Using concordance tables and the IPC classification, we have identified the top performers in each sector and highlighted their contribution to the economy.
+
+
+
+
